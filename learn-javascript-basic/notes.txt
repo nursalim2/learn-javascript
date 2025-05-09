@@ -1,0 +1,25 @@
+- Intro
+  - change content
+  - change html attrribute
+  - change style
+  - hide element
+  - show element
+
+- where to
+  - head
+  - body
+  - external
+
+
+- output
+  - innerHtml()
+  - innerText()
+  - document.write()
+  - alert()
+  - console.log()
+  - window.print()    
+
+- statements
+  - statement
+
+- comments  
