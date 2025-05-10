@@ -22,4 +22,60 @@
 - statements
   - statement
 
-- comments  
+- comments
+  - single line comments
+  - multi line comments
+
+- variable
+  - automatically become variable
+  - var
+  - let
+  - const
+  - mixed
+  - one statement many variable
+  - undefined variable
+  - redeclare variable
+
+- const
+  - const
+  - constant array
+  - constant object
+
+- operators
+  - assignment
+  - addition
+  - multiplication
+  - arithmetic
+  - assignment
+  - comparison
+  - string concat
+  - string and number concat
+
+- arithmetic
+  - adding
+  - substract
+  - multiply
+  - division
+  - modulus
+  - increment
+  - decrement
+  - exponent
+  - pow
+
+- assignment
+  - simple assignment
+  - addition assignment
+  - substraction assignment
+  - multiplication assignment
+  - exponent assignment
+  - division assignment
+  - modulus_assignment
+  - left shift assignment
+  - right shift assignment
+  - unsigned right shift assignment
+  - bitwise and
+  - bitwise or
+  - bitwise xor
+  - logical and
+  - logical or
+          
