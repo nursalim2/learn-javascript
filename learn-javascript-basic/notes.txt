@@ -78,4 +78,26 @@
   - bitwise xor
   - logical and
   - logical or
+  - nullish coalesing assignment
+
+- data type
+  - adding number and string
+  - dynamic data type
+  - string
+  - number
+  - exponential notation
+  - big integer
+  - boolean
+  - array
+  - object
+  - type of
+  - undefined
+
+- function
+  - function
+
+- object
+  - create object
+  - using new keyword      
+
           
