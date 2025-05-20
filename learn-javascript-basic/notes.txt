@@ -98,6 +98,80 @@
 
 - object
   - create object
-  - using new keyword      
+  - using new keyword
+  - object method
+  - object mutable
+
+- object properties
+  - object properties
+  - add new property
+  - deleting property
+  - nested object
+
+- object display
+  - object display
+  - display properties with loop
+  - display properties using Object.values()
+  - display properties using Object.entries()
+  - display properties using json.stringify()
+
+- object constructor
+  - object constructor
+  - multiple object
+  - default property value 
+  - add property to constructor
+  - constructor method
+  - add method constructor
+
+- events
+  - event
+  - event call function
+
+- strings
+  - string quotes
+  - quotes inside quotes
+  - template string
+  - string lenth
+  - escape character
+  - string as object
+
+- string method
+  - string length
+  - string charAt 
+  - string charCodeAt
+  - string at
+  - property access
+  - string slice
+  - string substring
+  - string toUpperCase
+  - string toLowerCase
+  - string concat
+  - string trim
+  - string trimStart
+  - string padStart
+  - string padEnd
+  - string repeat
+  - string replace
+  - string replace ignore case sensitive
+  - string replace global
+  - string replace all
+  - string split
+
+- string search
+  - indexOf
+  - lastIndexOf
+  - search
+  - match
+  - matchAll
+  - includes
+  - startsWith
+  - endsWith
+
+- string templates
+  - string template
+  - quotes inside string
+  - multi line string
+  - string interpolation
+  - html template    
 
           
