@@ -172,6 +172,55 @@
   - quotes inside string
   - multi line string
   - string interpolation
-  - html template    
+  - html template
+
+- numbers
+  - number
+  - exponent
+  - integer precision
+  - floating point precision
+  - add number and string
+  - not a number (NaN)
+  - isNaN
+  - infinity
+
+- BigInt
+  - big_int
+  - multiply
+  - divide
+  - hex, octal, binary
+  - max safe integer
+  - min safe integer
+  - isInteger() method
+  - isSafeInteger() method
+
+- number methods
+  - toString()
+  - toExponential()
+  - toFixed()
+  - toPrecision()
+  - valueOf()
+  - Number()
+
+- number properties
+  - epsilon
+  - max_value
+  - min_value
+  - max_safe_integer
+  - min_safe_integer
+  - positive_infinity
+  - negative_infinity
+  - NaN
+
+- arrays
+  - array
+  - new keyword
+  - access array
+  - changing array
+  - convert array to string    
+  - array length
+  - access last element
+  - looping array
+
 
           
