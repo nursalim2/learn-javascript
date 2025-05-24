@@ -221,6 +221,18 @@
   - array length
   - access last element
   - looping array
+  - add new element
+
+- array methods  
+  - toString()
+  - at() # since es2022
+  - join()
+  - push()
+  - pop()
+  - shift()
+  - unshift()
+  - concat()
+  - copyWithIn()
 
 
           
