@@ -233,6 +233,35 @@
   - unshift()
   - concat()
   - copyWithIn()
+  - flat() since es2019
+  - flatMap() since es2019
+  - splice()
+  - toSplice()`
+  - slice()
+
+- array searchs
+  - indexof()
+  - lastIndexOf()
+  - includes()
+  - find()
+  - findIndex()
+  - findLast()
+  - findLastIndex()
+
+- array sort
+  - sort()
+  - reverse()
+  - descending
+  - toSorted()
+  - toReversed()
+  - numeric ascending
+  - numeric descending
+  - sort random
+  - fisher yates method
+  - minimum number
+  - maximum number
+  - sorting object by number
+
 
 
           
