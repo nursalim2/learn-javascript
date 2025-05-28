@@ -262,6 +262,11 @@
   - maximum number
   - sorting object by number
 
+- array iteration 
+  - forEach()
+  - map()
+  - flatMap()  
+
 
 
           
